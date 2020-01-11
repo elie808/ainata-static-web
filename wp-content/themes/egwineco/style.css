@@ -4175,11 +4175,11 @@ span.ajax-loader {
 }
 
 .home .chardonnay .wine-title {
-    color: #f9e093
+    color: #ecb65d
 }
 
 .home .chardonnay .wine-subtitle2 {
-    color: #00908e
+    color: #ffffff
 }
 
 .contact-form-submit .home .chardonnay input,
@@ -4187,8 +4187,8 @@ span.ajax-loader {
 .home .chardonnay .contact-form-submit input,
 .home .chardonnay .not-found .post-password-form input[type=submit],
 .not-found .post-password-form .home .chardonnay input[type=submit] {
-    background-color: #00908e;
-    color: #fff
+    background-color: #ffffff;
+    color: #ecb65d
 }
 
 .contact-form-submit .home .chardonnay input:after,
@@ -4196,7 +4196,7 @@ span.ajax-loader {
 .home .chardonnay .contact-form-submit input:after,
 .home .chardonnay .not-found .post-password-form input[type=submit]:after,
 .not-found .post-password-form .home .chardonnay input[type=submit]:after {
-    background-color: #00908e
+    background-color: #ffffff
 }
 
 .contact-form-submit .home .chardonnay input:hover,
@@ -4229,7 +4229,7 @@ span.ajax-loader {
 }
 
 .home .red-wine .wine-subtitle2 {
-    color: #7d1619
+    color: #ffffff
 }
 
 .contact-form-submit .home .red-wine input,
@@ -4279,7 +4279,7 @@ span.ajax-loader {
 }
 
 .home .rose .wine-subtitle2 {
-    color: #162559
+    color: #ecb65d
 }
 
 .contact-form-submit .home .rose input,
@@ -4329,7 +4329,7 @@ span.ajax-loader {
 }
 
 .home .sauvignon-blanc .wine-subtitle2 {
-    color: #537431
+    color: #000000
 }
 
 .contact-form-submit .home .sauvignon-blanc input,
