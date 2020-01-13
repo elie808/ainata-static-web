@@ -3918,6 +3918,10 @@ span.ajax-loader {
     background-image: url(assets/images/home/intro.jpg)
 }
 
+.home-hero-story .bg {
+    background-image: url(assets/images/home/intro.jpg)
+}
+
 @media only screen and (max-width:767px) {
     .home-hero-intro .bg {
         display: none
