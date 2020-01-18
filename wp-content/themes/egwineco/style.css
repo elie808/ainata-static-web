@@ -3919,7 +3919,7 @@ span.ajax-loader {
 }
 
 .home-hero-story .bg {
-    background-image: url(assets/images/home/intro.jpg)
+    background-image: url(assets/images/home/intro2.jpg)
 }
 
 @media only screen and (max-width:767px) {
@@ -4914,11 +4914,11 @@ span.ajax-loader {
     transform: translateX(0) rotate(-35deg)
 }
 
-.wines-hero-wine.chardonnay .bg {
+.wines-hero-wine.ainata12 .bg {
     background-image: url(assets/images/wines/chardonnay-bg.jpg)
 }
 
-.wines-hero-wine.chardonnay .content {
+.wines-hero-wine.ainata12 .content {
     background-color: #00b4b1
 }
 
@@ -4926,20 +4926,20 @@ span.ajax-loader {
     background-image: url(assets/images/wines/chardonnay-pattern1.png)
 }
 
-.wines-hero-wine.chardonnay .content:after {
+.wines-hero-wine.ainata12 .content:after {
     background-image: url(assets/images/wines/chardonnay-pattern2.png)
 }
 
-.wines-hero-wine.chardonnay .can {
+.wines-hero-wine.ainata12 .can {
     /* background-image: url(assets/images/home/can-chardonnay.png) */
     background-image: url(assets/images/home/wine1.png)
 }
 
-.wines-hero-wine.chardonnay .title {
+.wines-hero-wine.ainata12 .title {
     color: #f9e093
 }
 
-.wines-hero-wine.chardonnay .wines-ml {
+.wines-hero-wine.ainata12 .wines-ml {
     color: #00908e
 }
 
