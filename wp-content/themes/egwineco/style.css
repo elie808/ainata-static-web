@@ -467,6 +467,61 @@ a:visited {
     }
 }
 
+.default-content-inner h2,
+.subtitle,
+.bd,
+.wines-name {
+    color: #fff;
+    text-transform: uppercase;
+    font: normal normal 25px/1.1 Heavitas, Arial Black, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0
+}
+
+@media only screen and (max-width:1200px) {
+    .default-content-inner h2,
+    .subtitle,
+    .bd,
+    .wines-name {
+        font-size: 21px
+    }
+}
+
+@media only screen and (max-height:730px) and (min-width:1024px) {
+    .default-content-inner h2,
+    .subtitle,
+    .bd,
+    .wines-name {
+        font-size: 17px
+    }
+}
+
+@media only screen and (max-width:1023px) {
+    .default-content-inner h2,
+    .subtitle,
+    .wines-name {
+        font-size: 17px
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .default-content-inner h2,
+    .subtitle,
+    .bd,
+    .wines-name {
+        font-size: 13px
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .default-content-inner h2,
+    .subtitle,
+    .bd,
+    .wines-name {
+        font-size: 11px
+    }
+}
+
 .default-content-inner .subtitle+h2,
 .default-content-inner .wines-name+h2,
 .default-content-inner h2+.subtitle,
